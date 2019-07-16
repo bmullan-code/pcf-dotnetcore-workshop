@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D175B5C5-75A0-491D-8A28-60312FB6AD8E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab03/Models/SeedData.cs">
+    <Files>
+      <File FileName="Lab03/Controllers/HomeController.cs" Line="11" Column="18" />
+      <File FileName="Lab03/Controllers/MoviesController.cs" Line="30" Column="6" />
+      <File FileName="Lab03/Data/MovieContext.cs" Line="22" Column="1" />
+      <File FileName="Lab03/Models/SeedData.cs" Line="29" Column="95" />
+      <File FileName="Lab03/Models/Movie.cs" Line="1" Column="1" />
+      <File FileName="Lab03/Models/ErrorViewModel.cs" />
+      <File FileName="Lab03/Program.cs" Line="1" Column="1" />
+      <File FileName="Lab03/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab03" expanded="True">
+            <Node name="Lab03" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="SeedData.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

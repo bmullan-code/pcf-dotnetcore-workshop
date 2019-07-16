@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/Lab01.csproj": {}
+  },
+  "projects": {
+    "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/Lab01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/Lab01.csproj",
+        "projectName": "Lab01",
+        "projectPath": "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/Lab01.csproj",
+        "packagesPath": "/Users/bmullan/.nuget/packages/",
+        "outputPath": "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bmullan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
