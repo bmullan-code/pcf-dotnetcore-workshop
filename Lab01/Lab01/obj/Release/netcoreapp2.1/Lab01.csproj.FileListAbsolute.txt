@@ -30,3 +30,35 @@
 /Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.dll
 /Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.pdb
 /Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.csproj.CopyComplete
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.deps.json
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.runtimeconfig.json
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.runtimeconfig.dev.json
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.dll
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.pdb
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.Views.dll
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/bin/Release/netcoreapp2.1/Lab01.Views.pdb
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.csprojAssemblyReference.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.csproj.CoreCompileInputs.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.RazorAssemblyInfo.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.RazorAssemblyInfo.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.AssemblyInfoInputs.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.AssemblyInfo.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.TagHelpers.input.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.TagHelpers.output.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.RazorCoreGenerate.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/About.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Contact.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Error.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Privacy.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.RazorTargetAssemblyInfo.cache
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.RazorTargetAssemblyInfo.cs
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.Views.pdb
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.dll
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.pdb
+/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab01/Lab01/obj/Release/netcoreapp2.1/Lab01.csproj.CopyComplete

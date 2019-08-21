@@ -1,0 +1,11 @@
+---
+applications:
+- name: lab01
+  memory: 1G
+  instances: 1
+  random-route: true
+  path: ./bin/Release/netcoreapp2.1/publish
+  services: []
+  env:
+    SKIP_SSL_VALIDATION: "true"
+
