@@ -1,9 +1,11 @@
 ---
 applications:
-- name: lab01
+- name: Lab01-Core
   memory: 1G
   instances: 1
   random-route: true
+  buildpacks:
+   - dotnet_core_buildpack
   path: ./bin/Release/netcoreapp2.1/publish
   services: []
   env:
