@@ -4,5 +4,7 @@ applications:
   buildpacks:
    - dotnet_core_buildpack
   memory: 512M
+  path: ./bin/Release/netcoreapp2.1/publish
+  random-route: true
   env:
     ASPNETCORE_ENVIRONMENT: Development

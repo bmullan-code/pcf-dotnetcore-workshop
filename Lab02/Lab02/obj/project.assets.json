@@ -12244,11 +12244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab02/Lab02/Lab02.csproj",
+      "projectUniqueName": "/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab02/Lab02/Lab02.csproj",
       "projectName": "Lab02",
-      "projectPath": "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab02/Lab02/Lab02.csproj",
+      "projectPath": "/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab02/Lab02/Lab02.csproj",
       "packagesPath": "/Users/bmullan/.nuget/packages/",
-      "outputPath": "/Users/bmullan/Downloads/PCF-Workshop/DotNET Core/Lab02/Lab02/obj/",
+      "outputPath": "/Users/bmullan/Downloads/pcf-dotnetcore-workshop/Lab02/Lab02/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
